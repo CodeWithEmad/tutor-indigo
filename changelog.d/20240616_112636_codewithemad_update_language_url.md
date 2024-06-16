@@ -1,0 +1,1 @@
+- [Bugfix] The session_language url was renamed to update_language but it was still referred to in header.html. (by @CodeWithEmad)
